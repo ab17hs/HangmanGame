@@ -60,3 +60,12 @@ Agile / Iterative Approach:
 
 
 Step 2: Project Specification added
+
+4. System Testing
+
+- All letter buttons work correctly
+- Correct letters reveal in the word
+- Incorrect letters decrease attempts
+- Win and lose messages display properly
+- Restart button resets the game
+- All tests passed successfully on Android emulator (API 36)
