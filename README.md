@@ -57,3 +57,6 @@ Agile / Iterative Approach:
 - Each iteration includes designing, coding, testing, and updating the game
 - Frequent testing ensures bugs are identified early
 - Documentation is updated alongside development
+
+
+Step 2: Project Specification added
